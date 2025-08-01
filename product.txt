@@ -1,0 +1,6 @@
+ID  NAME               COST       QUANTITY    CATEGORY
+1	Laptop               800.5		20		Electronics
+2	Moisturizer          30	    	25		SkinCare
+3	Handbag              49.99		15		Accessories
+4	SmartPhone           399.99		30		Electronics
+5	Sunglasses           14.5		60		Accessories
